@@ -131,6 +131,13 @@
 .contentBox .content-image-grid .div31 { grid-column: 3; grid-row: 17; }
 
 
+.contentBox .content-image-grid {
+  grid-auto-rows: min-content;
+}
+
+.contentBox .content-image-grid {
+  grid-auto-rows: auto;
+}
 
 
 /* --- ADAPTACION A OTRAS PANTALLAS --- */
