@@ -1072,10 +1072,10 @@ footer {
 
 
 
-.footer-section {
+.custom-footer {
   width: 100%;
   padding: 20px 0;
-  background-color: #000; /* O el color que uses para el fondo */
+  background-color: #000; /* Puedes cambiar el color */
   color: #fff;
   text-align: center;
   display: flex;
@@ -1084,16 +1084,16 @@ footer {
   justify-content: center;
 }
 
-.footText {
+.custom-footer-text {
   margin: 0;
   font-size: 16px;
 }
 
-.social-media {
+.custom-footer-social {
   margin-top: 10px;
 }
 
-.social-media-icon {
+.custom-footer-icon {
   width: 24px;
   height: 24px;
 }
